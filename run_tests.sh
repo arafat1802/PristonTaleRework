@@ -13,4 +13,4 @@ python -m pip install --upgrade pip
 python -m pip install -r "$ROOT_DIR/requirements.txt"
 
 pytest "$ROOT_DIR/tests" -q
-# Abu bakar
+# Run Test
